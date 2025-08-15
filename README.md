@@ -139,10 +139,7 @@ The template is fully responsive and optimized for:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
 
-**Alexey**
-- GitHub: [@Alexey9911](https://github.com/Alexey9911)
 
 ## 🤝 Contributing
 
